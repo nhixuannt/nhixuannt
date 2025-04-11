@@ -5,10 +5,10 @@
 ## 🔧 Skills & Expertise
 
 - **Business Analysis Techniques**:  
-  Requirement Elicitation, Process Modelling, State Diagram, Data Model, Wireframing with Figma, Use Case, User Stories, SQL, API, Non-Functional Requirements.
+  Requirement Elicitation, Process Modelling, State Diagram, Data Model, Wireframing with Figma, UML Diagrams, SQL, API, Non-Functional Requirements.
 
 - **Software and Tools**:  
-  MS SQL, Power BI, Figma, Camunda, MS Office, UML Diagrams, Draw.io, Postman for API Testing.
+  MS SQL, Power BI, Figma, Camunda, MS Office, Draw.io, Postman for API Testing.
 
 ## 📫 Let's Connect!
 
