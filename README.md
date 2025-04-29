@@ -11,9 +11,11 @@
   MS SQL, Power BI, Figma, Camunda, MS Office, Draw.io, Postman for API Testing.
 
 - **Requirement Management Tools**:
+
   Confluence
 
 - **Soft skills**:
+ 
   Communication, Teamwork, Analytical Thinking, Responsibility, Willingness to Learn.
 
 ## 📫 Let's Connect!
