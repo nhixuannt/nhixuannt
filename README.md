@@ -4,23 +4,17 @@
 
 ## 🔧 Skills & Expertise
 
-- **Business Analysis Techniques**:  
-Requirement Elicitation, Process Modeling, State Diagram, Data Model, Wireframing with Figma, UML Diagrams, User Stories, SQL. 
+- **Business Analysis Techniques**: Requirement Elicitation, Process Modeling, State Diagram, Data Model, Wireframing with Figma, UML Diagrams, User Stories, SQL. 
 
-- **Requirement Management Tools**:
-  Confluence, Jira. 
+- **Requirement Management Tools**: Confluence, Jira. 
 
-- **Software Development Methodologies**:
-  Agile/Scrum (Daily Sprint, Sprint Planning, Sprint Restrospective). 
+- **Software Development Methodologies**: Agile/Scrum (Daily Sprint, Sprint Planning, Sprint Restrospective). 
 
-- **Business Domain Knowledge**:
-  ERP (Odoo).
+- **Business Domain Knowledge**: ERP (Odoo).
   
-- **Software and Tools**:  
-  MS SQL, Power BI, Figma, Camunda, MS Office, Draw.io.
+- **Software and Tools**: MS SQL, Power BI, Figma, Camunda, MS Office, Draw.io.
 
-- **Soft skills**:
-  Communication, Teamwork, Analytical Thinking, Responsibility, Willingness to Learn.
+- **Soft skills**: Communication, Teamwork, Analytical Thinking, Responsibility, Willingness to Learn.
 
 ## 📫 Let's Connect!
 
