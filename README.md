@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Xuan Nhi!
 
-🎓 I'm a final-year student majoring in Management Information Systems (MIS) at the College of Technology and Design – UEH University. With interest in both business and technology, I am pursuing a career path as an IT Business Analyst. As a passionate student in this field, I am seeking an internship opportunity where I can develop solid skills in requirement analysis, logical thinking, stakeholder communication, and BA tools. I am eager to gain hands-on experience, contribute to real-world projects, and further develop my expertise as a Business Analyst.
+🎓 I'm a recent graduate in Management Information Systems (MIS) from UEH University. I am interested in working as an IT Business Analyst, where I can combine business knowledge with technology. I have 6 months of internship experience as a Business Analyst, with exposure to requirement analysis, documentation, testing, and working with stakeholders. I am currently seeking a Fresher Business Analyst position to learn more, gain practical experience, and contribute to real projects. 
 
 ## 🔧 Skills & Expertise
 
@@ -10,7 +10,7 @@
 
 - **Software Development Methodologies**: Agile/Scrum (Daily Sprint, Sprint Planning, Sprint Restrospective). 
   
-- **Software and Tools**: MS SQL, Power BI, Figma, Camunda, MS Office, Draw.io.
+- **Software and Tools**: MS SQL, Power BI, Figma, Camunda, MS Suite, Draw.io, Postman for API Testing. 
 
 - **Soft skills**: Communication, Teamwork, Analytical Thinking, Responsibility, Willingness to Learn.
 
