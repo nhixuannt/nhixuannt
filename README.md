@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Xuan Nhi!
 
-🎓 I'm a recent graduate in Management Information Systems (MIS) from UEH University. I am interested in working as an IT Business Analyst, where I can combine business knowledge with technology. I have 6 months of internship experience as a Business Analyst, with exposure to requirement analysis, documentation, testing, and working with stakeholders. I am currently seeking a Fresher Business Analyst position to learn more, gain practical experience, and contribute to real projects. 
+🎓 I'm a recent graduate in Management Information Systems (MIS) from UEH University. I am interested in working as an IT Business Analyst, where I can combine business knowledge with technology. I have 9 months experience as a Business Analyst, with exposure to requirement analysis, documentation, testing, and working with stakeholders. I am currently seeking a Fresher Business Analyst position to learn more, gain practical experience, and contribute to real projects. 
 
 ## 🔧 Skills & Expertise
 
