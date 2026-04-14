@@ -6,7 +6,7 @@
 
 - **Business Analysis Techniques**: Requirement Elicitation, Process Modeling, State Diagram, Data Modeling, Wireframing with Figma, UML Diagrams, User Stories, SQL. 
 
-- **Requirement Management Tools**: Confluence, Jira. 
+- **Requirement Management Tools**: Confluence, Jira, Redmine. 
 
 - **Software Development Methodologies**: Agile/Scrum (Daily Sprint, Sprint Planning, Sprint Restrospective). 
   
